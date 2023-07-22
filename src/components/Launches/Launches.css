@@ -1,0 +1,11 @@
+.launches_container {
+  width: 90%;
+  margin: 100px auto 0;
+}
+.launches_container h2 {
+  width: 50%;
+  margin: auto;
+}
+.MuiGrid-container {
+  margin-top: 60px !important;
+}
